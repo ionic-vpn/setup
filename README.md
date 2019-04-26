@@ -1,7 +1,7 @@
-# Script Installation
+# Setup
 # OpenVPN, Pritunl, Proxy, SHH Dropbear, Web Panel
 
-- wget https://raw.githubusercontent.com/nwqionm/OPENEXTRA/master/Install
+- wget https://github.com/ionic-vpn/setup/master/install
 - chmod +x Install
 - bash Install
 

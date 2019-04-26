@@ -1,7 +1,7 @@
 # Setup
 # OpenVPN, Pritunl, Proxy, SHH Dropbear, Web Panel
 
-- wget https://github.com/ionic-vpn/setup/install
+- wget https://github.com/ionic-vpn/setup/blob/master/Install
 - chmod +x Install
 - bash Install
 
